@@ -15,7 +15,7 @@
 ## Follow instructions, it`s very easy!
 
 ```bash
-$ apt-get install -y libpam0g-dev
+$ apt-get install -y libpam0g-dev git wget make gcc libssl-dev zlibc zlib1g zlib1g-dev
 $ wget http://www.mirrorservice.org/pub/OpenBSD/OpenSSH/portable/openssh-6.7p1.tar.gz
 $ tar -xzvf openssh-6.7p1.tar.gz
 $ cd openssh-6.7p1
